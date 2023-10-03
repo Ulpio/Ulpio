@@ -5,4 +5,12 @@ Hey, i'm Úlpio
 - 🌱 Atualmente estou aprendendo Ciência da Computação (Unima)
 - 👯 Estou procurando colaborar em Projetos OpenSource para melhorar o meu perfil
 - 🤔 Estou procurando ajuda com Desenvolvimento Web
-- 📫 Como entrar em contato comigo: ulpinetto0@gmail.com
+- 📫 Como entrar em contato comigo: ulpionetto0@gmail.com
+
+# Proficiências
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />7
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+          
